@@ -26,7 +26,7 @@ Group ini memiliki beberapa lini usaha dengan fokus yang berbeda:
 
 * Pembangunan dan konstruksi
 * Renovasi bangunan
-* Pekerjaan infrastruktur
+* Pekerjaan infrastruktur terutama PJU
 * Pekerjaan sipil
 
 ### Electrical & Energy
